@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+_trial/**/_conveyor/
+_trial/**/Выдача/
+_scratch/*
+!_scratch/astra_smoke/
+_scratch/astra_smoke/*
+!_scratch/astra_smoke/build_smoke.py
+!_scratch/astra_smoke/smoke.dxf
+!_scratch/astra_smoke/smoke_preview.png
+!_scratch/astra_smoke/kit_api.md
+
+_trial/
+Водяное пожаротушение — тест/
